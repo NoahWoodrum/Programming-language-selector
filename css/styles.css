@@ -15,3 +15,8 @@
   width: 100%;
   background-color: lightsalmon;
 }
+
+.container img {
+  width: 400px;
+  float: left;
+}

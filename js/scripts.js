@@ -17,7 +17,7 @@ $(document).ready(function() {
       $("#c").show();
     }
 
-    else if (question1 === "yes" && question2 === "yes" && question3 === "no" && question4 === "yes" && question5 === "no") {
+    else if (question1 === "yes" && question2 === "no" && question3 === "no" && question4 === "yes" && question5 === "no") {
 
       $("#javascript").show();
     }

@@ -5,6 +5,11 @@
 
 .container h1 {
   text-align: center;
+  color: darkred;
+}
+
+.container h2 {
+  text-align: center;
 }
 
 .container {

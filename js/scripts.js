@@ -7,7 +7,6 @@ $(document).ready(function() {
     const question4 = $("input#question4").val();
     const question5 = $("input#question5").val();
 
-
     if (question1 === "yes" && question2 === "yes" && question3 === "no" && question4 === "yes" && question5 === "no") {
 
       $("#ruby").show();

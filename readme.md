@@ -5,7 +5,7 @@
 #### By _**Noah Woodrum**_
 
 ### Git Pages Link
-[Noah Woodrums project2 Read.me (GitHub Pages)](http://basicjohn.github.io/portfolio)
+[Noah Woodrums project2 Read.me (GitHub Pages)](https://github.com/NoahWoodrum/Programming-language-selector.git)
 
 ## Technologies Used
 
@@ -19,12 +19,13 @@
 
 ## Description
 
-_This is a programming language suggester to find out what coding language is 
+_This is a programming language suggester to find out what coding language is meant for you._
 
 ## Setup/Installation Requirements
 
+* _download repository_
 * _Clone this repository to your desktop_
-* __
+* _open using gui_
 
 ## Known Bugs
 

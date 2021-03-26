@@ -2,3 +2,16 @@
 
   display: none;
 }
+
+.container h1 {
+  text-align: center;
+}
+
+.container {
+  background-color: darkkhaki;
+}
+
+.btn {
+  width: 100%;
+  background-color: lightsalmon;
+}

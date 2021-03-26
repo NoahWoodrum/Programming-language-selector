@@ -5,7 +5,7 @@
 #### By _**Noah Woodrum**_
 
 ### Git Pages Link
-[Noah Woodrums project2 Read.me (GitHub Pages)](https://github.com/NoahWoodrum/Programming-language-selector.git)
+[Noah Woodrums project2 Read.me (GitHub Pages)](NoahWoodrum.github.io/project2)
 
 ## Technologies Used
 
